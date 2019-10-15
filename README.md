@@ -30,7 +30,7 @@ Flutter Dev POA | Porto Alegre | [meetup](https://www.meetup.com/pt-BR/FlutterDe
 
 Meetup | Cidade | Links | Encontros
 :------------ | ------- | ------------------- | -------------------
-Flutter SP | São Paulo | [meetup](https://www.meetup.com/pt-BR/flutterbr) [facebook](https://www.facebook.com/fluttersp/)
+Flutter BR (Flutter SP) | São Paulo | [meetup](https://www.meetup.com/pt-BR/flutterbr) [facebook](https://www.facebook.com/brflutter/) [twitter](http://twitter.com/flutterbr_)
 Flutter Campinas | Campinas | [meetup](https://www.meetup.com/pt-BR/Flutter-Campinas-Meetup/)
 
 ## Mais sobre a comunidade
