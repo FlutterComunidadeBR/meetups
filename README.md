@@ -8,6 +8,12 @@ Meetup | Cidade | Links | Encontros
 :------------ | ------- | ------------------- | -------------------
 Flutter Brasilia | Brasilia | [meetup](https://www.meetup.com/pt-BR/Flutter-Brasilia/)
 
+## Goiás
+
+Meetup | Cidade | Links | Encontros
+:------------ | ------- | ------------------- | -------------------
+Flutter BR (GoFlutter) | Goiânia | [meetup](http://meetup.com/flutterbr/) [linkedIn](https://www.linkedin.com/company/goflutter/) [telegram](https://lnkd.in/ey-Q-ch) [discord](https://discord.gg/rzazDJh) [slack](https://lnkd.in/e-SUgiK) [site](http://goflutter.com.br/)
+
 ## Minas Gerais
 
 Meetup | Cidade | Links | Encontros
