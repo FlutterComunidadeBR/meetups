@@ -32,6 +32,12 @@ Meetup | Cidade | Links | Encontros
 :------------ | ------- | ------------------- | -------------------
 Flutter Dev POA | Porto Alegre | [meetup](https://www.meetup.com/pt-BR/FlutterDevPoa/) [youtube](https://www.youtube.com/channel/UC3wMNDr_q-QmXSAxvbWbAAA) [github](https://github.com/flutterdevpoa/)
 
+## Santa Catarina
+
+Meetup | Cidade | Links | Encontros
+:------------ | ------- | ------------------- | -------------------
+Flutter Floripa | Florianópolis | [meetup](https://www.meetup.com/pt-BR/Flutter-Floripa/)
+
 ## São Paulo
 
 Meetup | Cidade | Links | Encontros
