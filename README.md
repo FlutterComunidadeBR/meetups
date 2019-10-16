@@ -8,6 +8,12 @@ Meetup | Cidade | Links | Encontros
 :------------ | ------- | ------------------- | -------------------
 Flutter Brasilia | Brasilia | [meetup](https://www.meetup.com/pt-BR/Flutter-Brasilia/)
 
+## Florianópolis
+
+Meetup | Cidade | Links | Encontros
+:------------ | ------- | ------------------- | -------------------
+Flutter Floripa | Florianópolis | [meetup](https://www.meetup.com/pt-BR/Flutter-Floripa/)
+
 ## Goiás
 
 Meetup | Cidade | Links | Encontros
